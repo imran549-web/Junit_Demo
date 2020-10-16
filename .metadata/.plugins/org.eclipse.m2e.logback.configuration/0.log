@@ -1,0 +1,15 @@
+2020-10-16 21:56:55,061 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-16 21:58:23,562 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.junit:Junit_POM_Framework:0.0.1-SNAPSHOT @ C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\pom.xml.
+2020-10-16 21:58:24,320 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit_POM_Framework/src/main/java
+2020-10-16 21:58:24,321 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Junit_POM_Framework/src/test/java
+2020-10-16 21:58:24,645 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-10-16 21:58:26,247 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-16 21:58:26,260 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\src\main\resources
+2020-10-16 21:58:26,263 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-16 21:58:26,275 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\src\test\resources
+2020-10-16 21:58:38,586 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-16 21:58:38,597 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\src\main\resources
+2020-10-16 21:58:38,600 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-16 21:58:38,610 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\src\test\resources
+2020-10-16 22:00:03,103 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-10-16 22:00:03,113 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Imran khan\Training_Demo\Junit_POM_Framework\src\main\resources
